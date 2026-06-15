@@ -1,11 +1,18 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "my-skills",
+  "version": "1.0.0",
   "description": "半導体分析スキル集",
+  "owner": {
+    "name": "hikarusan1116-png",
+    "email": ""
+  },
   "plugins": [
     {
       "name": "semiconductor-analyst",
       "description": "半導体セクター分析スキル",
-      "path": "semiconductor-analyst"
+      "source": "./semiconductor-analyst",
+      "category": "development"
     }
   ]
 }
