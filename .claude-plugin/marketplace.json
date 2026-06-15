@@ -11,7 +11,7 @@
     {
       "name": "semiconductor-analyst",
       "description": "半導体セクター分析スキル",
-      "source": "./plugins/semiconductor-analyst",
+      "source": "./semiconductor-analyst",
       "category": "development"
     }
   ]
