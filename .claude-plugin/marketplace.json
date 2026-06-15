@@ -11,11 +11,7 @@
     {
       "name": "semiconductor-analyst",
       "description": "半導体セクター分析スキル",
-      "source": {
-        "source": "github",
-        "repo": "hikarusan1116-png/my-skills",
-        "path": "./semiconductor-analyst"
-      },
+      "source": ".",
       "category": "development"
     }
   ]
