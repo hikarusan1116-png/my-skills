@@ -1,0 +1,11 @@
+{
+  "name": "my-skills",
+  "description": "半導体分析スキル集",
+  "plugins": [
+    {
+      "name": "semiconductor-analyst",
+      "description": "半導体セクター分析スキル",
+      "path": "semiconductor-analyst"
+    }
+  ]
+}
